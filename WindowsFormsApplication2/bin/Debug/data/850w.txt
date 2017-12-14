@@ -1,0 +1,21 @@
+﻿Specification
+ประเภท Power Supply	ATX 12V
+กำลังไฟสูงสุด		850W
+Fan Size			1 x 120mm Fan
+Power Factor Correction	Active
+Mainboard Connector	20+4 Pin
+PCI Ex Connector		6 x 6+2-Pin
+Sata Connector		10
+รองรับการ SLI		Ready
+รองรับการ Cross Fire		Ready
+สามารถถอดสายได้		Modular
+อัตราการจ่ายพลังงาน		94%
+มาตรฐานรับรอง		80 PLUS Platinum
+ระบบป้องกันไฟเกิน		OPP, OVP, UVP, OCP, OTP, SCP
+รองรับไฟขาเข้า		100 - 240 V
+ช่วงความถี่ขาเข้า		50-60Hz
+จำนวนชั่วโมงการใช้งาน	>100,000 Hours
+ขนาด			150mm x 140mm x 86mm
+Feature เพิ่มเติม		-
+Warranty
+การรับประกัน		5 ปี

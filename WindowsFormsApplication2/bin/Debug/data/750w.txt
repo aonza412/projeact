@@ -1,0 +1,21 @@
+﻿Specification
+ประเภท Power Supply	ATX 12V v2.4 & EPS v2.92
+กำลังไฟสูงสุด		750W
+Fan Size			1 x 120mm Fan
+Power Factor Correction	Active
+Mainboard Connector	20+4-Pin
+PCI Ex Connector		4 x 2+6-Pin
+Sata Connector		7
+รองรับการ SLI		Ready
+รองรับการ Cross Fire		Ready
+สามารถถอดสายได้		N/A
+อัตราการจ่ายพลังงาน		90% Typically
+มาตรฐานรับรอง		80 PLUS Gold
+ระบบป้องกันไฟเกิน		OVP/UVP/OPP/SCP/SIP
+รองรับไฟขาเข้า		100 - 240 V
+ช่วงความถี่ขาเข้า		47/63 Hz
+จำนวนชั่วโมงการใช้งาน	>100,000 hours
+ขนาด			150mm x 140mm x 86mm
+Feature เพิ่มเติม		-
+Warranty
+การรับประกัน		3 ปี

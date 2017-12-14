@@ -1,0 +1,26 @@
+﻿Model
+Brand		      GIGABYTE
+Model		      GTX1050Ti OC 4G
+Specification
+Chipset		      NVIDIA
+GPU Model	      NVIDIA 1000 Series
+GPU Name	      GP107
+Bus Interface	      PCI-ex 3.0 16x
+Technology	      14nm
+ความเร็ว GPU1	      316MHz
+ความเร็ว RAM3	      504MHz
+ความจุ RAM	      4GB
+ชนิดของ RAM	      DDR5
+Bus Width	      128bit
+General
+Shader Model	      5.0
+Shader Unit	      768
+DirectX		      12
+Port Connector
+DVI Port		      1 Port
+HDMI Port	      3 Port
+Display Port	      1 Port
+Power Requirement
+Power Recommended   450W
+Warranty
+การรับประกัน 	      3 ปี

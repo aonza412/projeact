@@ -1,0 +1,13 @@
+﻿Model
+Brand		      SAMSUNG
+Model		      Portable SSD T5 500GB
+Specification
+ความจุ		      500GB
+ขนาด 		      SSD2.5
+ความเร็วการอ่าน / เขียน   540 / 515
+MaxRandom 4K	      -
+Technology	      Samsung V-NAND
+Interface Connector
+Port เชื่อมต่อ	      USB 3.1
+Warranty
+การรับประกัน	      3 ปี

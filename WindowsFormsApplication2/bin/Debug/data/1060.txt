@@ -1,0 +1,27 @@
+﻿Model
+Brand		      ASUS
+Model		      GTX1060 DUAL 6GB
+Specification
+Chipset		      NVIDIA
+GPU Model	      NVIDIA 1000 Series
+GPU Name	      GP106
+Bus Interface	      PCI-ex 3.0 16x
+Technology	      16nm
+ความเร็ว GPU1	      569MHz
+ความเร็ว RAM	      2002MHz
+ความจุ RAM	      6GB
+ชนิดของ RAM	      DDR5
+Bus Width	      192bit
+General
+Shader Model	      5.0
+Shader Unit	      1280
+DirectX		      12
+Port Connector
+DVI Port		      1 Port
+HDMI Port	      2 Port
+Display Port	      2 Port
+Power Requirement
+Power Recommended   500W
+Power Connectors	      6 Pin
+Warranty
+การรับประกัน	      3 ปี

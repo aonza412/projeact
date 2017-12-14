@@ -1,0 +1,27 @@
+﻿Model
+Brand		      ASUS
+Model		      ROG STRIX GTX1080Ti GAMING
+Specification
+Chipset		      NVIDIA
+GPU Model	      NVIDIA 1000 Series
+GPU Name	      GP102
+Bus Interface	      PCI-ex 3.0 16x
+Technology	      16nm
+ความเร็ว GPU1	      493MHz
+ความเร็ว RAM	      1376MHz
+ความจุ RAM	      11GB
+ชนิดของ RAM	      DDR5X
+Bus Width	      352bit
+General
+Shader Model	      5.0
+Shader Unit	      3584
+DirectX		      12
+Port Connector
+DVI Port		      1 Port
+HDMI Port	      1 Port
+Display Port	      3 Port
+Power Requirement
+Power Recommended   600W
+Power Connectors         8 Pin + 8 Pin
+Warranty
+การรับประกัน 	      3 ปี
