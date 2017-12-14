@@ -1,0 +1,31 @@
+﻿Model
+Brand		ASUS
+Model		ROG STRIX X370-F GAMING
+Support CPU
+Socket		AM4
+CPU Support	Supports AMD Socket AM4 A-Series APUs (Bristol Ridge) & 
+		Ryzen Series CPUs (Summit Ridge)
+รองรับการกินไฟ CPU
+Mainboard Chipset	AMD X370
+Memmory
+จำนวน Slot แรม	4
+ความจุแรมสูงสุด	64GB
+ชนิดของแรม	Supports Dual Channel DDR4 3200(O.C.)/
+		2933(O.C.)/2666/2400/2133 MHz
+Onboard
+VGA Onboard Chip	Integrated AMD Radeon R-Series Graphics 
+		in A-series APU
+Audio Chip	Realtek ALC S1220A
+รองรับระบบเสียง	8 Channels HD Audio
+Storage Connector
+Port SATA 2	0
+Port SATA 3	8
+M.2 Slot		1
+M.2 Supports type	2242/2260/2280/22110
+
+Physical Spec
+ชนิดของเมนบอร์ด	ATX
+ช่องเสียบไฟ		24+8 Pin
+ขนาด			30.5 x 24.4 cm
+Warranty
+การรับประกัน	3 ปี

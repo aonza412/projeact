@@ -1,0 +1,13 @@
+﻿Model
+Brand                          INTEL
+Model                          Core i5-8400
+Specification
+Socket                         LGA1151-v2
+CPU Core / Thread    6/6
+Frequency                   2.80 GHz
+Turbo                           4.00 GHz
+CPU Bus                       8 GT/s DMI3
+Architecture                14nm
+Cache L2                      6 x 256KB
+Cache L3                      9MB
+Power Peak                 65W

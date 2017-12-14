@@ -1,0 +1,31 @@
+﻿Model
+Brand		GIGABYTE
+Model		Z370 HD3
+Support CPU
+Socket		LGA1151-v2
+CPU Support	Intel 8th Generation Core Processors
+Mainboard Chipset	intel Z370
+Memmory
+จำนวน Slot แรม	4
+ความจุแรมสูงสุด6	4GB
+ชนิดของแรม	Support Dual Channel DDR4 4000(O.C.) / 3866(O.C.) 
+		/ 3800(O.C.) / 3733(O.C.) / 3666(O.C.) / 3600(O.C.) 
+		/ 3466(O.C.) / 3400(O.C.) / 3333(O.C.) / 3300(O.C.) 
+		/ 3200(O.C.) / 3000(O.C.) / 2800(O.C.) / 2666(O.C.) 
+		/ 2400 / 2133 MHz
+Onboard
+VGA Onboard Chip	Integrated Graphics Processor
+Audio Chip	Realtek ALC892 Audio Codec
+รองรับระบบเสียง	7.1 Channels HD Audio
+Storage Connector
+Port SATA 2	0
+Port SATA 3	6
+M.2 Slot		1
+M.2 Supports type	2242/2260/2280/22110
+
+Physical Spec
+ชนิดของเมนบอร์ด	ATX
+ช่องเสียบไฟ	24+8 Pin
+ขนาด		30.5 x 22.5 cm
+Warranty
+การรับประกัน	3 ปี

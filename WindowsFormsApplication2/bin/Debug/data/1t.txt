@@ -1,0 +1,12 @@
+﻿Model
+Brand		SEAGATE
+Model		SKYHAWK 1TB
+Specification
+ความจุ		1TB
+ขนาด Harddisk	3.5
+ความเร็วจานหมุน	5900
+ขนาด Buffer	64MB
+Interface Connector
+Port เชื่อมต่อ	SATA III
+Warranty
+การรับประกัน	3 ปี

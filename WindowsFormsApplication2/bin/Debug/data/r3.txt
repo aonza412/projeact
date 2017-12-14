@@ -1,0 +1,13 @@
+﻿Model
+Brand                          AMD
+Model                          Ryzen 3 1200
+Specification
+Socket                         AM4
+CPU Core / Thread    4/4
+Frequency                   3.10 GHz
+Turbo                           3.45 GHz
+CPU Bus                       -
+Architecture                14 nm
+Cache L2                      2MB
+Cache L3                      8MB
+Power Peak                 65W

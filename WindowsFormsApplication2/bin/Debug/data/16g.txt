@@ -1,0 +1,11 @@
+﻿Model
+Brand		G.SKILL
+Model		TridentZ RGB DDR4 2400 16GB (8GBx2)
+Specification
+ชนิดแรม		DDR4
+ความจุ		16GB (8GBx2)
+Voltage		1.35V
+RAM Bus		2400
+CL Timing		15-15-15-35
+Warranty
+การรับประกัน	L/T ปี

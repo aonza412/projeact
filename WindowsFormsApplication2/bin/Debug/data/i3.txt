@@ -1,0 +1,13 @@
+﻿Model
+Brand                           INTEL
+Model                          Core i3-8100
+Specification
+Socket                         LGA1151-v2
+CPU Core / Thread    4/4
+Frequency                   3.60 GHz
+Turbo                           -
+CPU Bus                      8 GT/s DMI3
+Architecture               14nm
+Cache L2                     4 x 256KB
+Cache L3                     6MB
+Power Peak                65W

@@ -1,0 +1,14 @@
+﻿Specification
+ประเภท		   Mid Tower
+รองรับ Motherboard	   Mini-ITX,Micro-ATX,ATX
+Material		   Steel , Tempered Glass
+ขนาด (Dimension)	   217mm x 455mm x 505mm
+สี		   Black
+Input Connector	   USB 3.0*1 + 1.0*2 , HD audio
+น้ำหนัก		   -
+รองรับ VGA ขนาด	   380
+Fan Cooling 	   Front : 3 x 120mm 
+		   Top : 2 x 120mm 
+		   Bottom : - 
+		   Side : - 
+		   Rear : 1 x 120mm 

@@ -1,0 +1,13 @@
+﻿Model
+Brand               	AMD
+Model               	Ryzen 7 1800X
+Specification
+Socket             	AM4
+CPU Core /      	Thread  8/16
+Frequency       	3.60 GHz
+Turbo               	4.00 GHz
+CPU Bus           	-
+Architecture    	14 nm
+Cache L2          	4MB
+Cache L3          	16MB
+Power Peak     	95W

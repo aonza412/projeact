@@ -1,0 +1,11 @@
+﻿Model
+Brand		CORSAIR
+Model		Vengeance LPX DDR4 8GB 2400 (4GBx2) Red
+Specification
+ชนิดแรม		DDR4
+ความจุ		8GB (4GBx2)
+Voltage
+RAM Bus		2400
+CL Timing		14-16-16-31
+Warranty
+การรับประกัน	L/T ปี
